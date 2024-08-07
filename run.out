@@ -1,0 +1,8 @@
+024-08-07T12:15:18,884 [main] INFO  com.huntresslabs.log4shell.App - connecting to redis database
+2024-08-07T12:15:19,087 [main] INFO  com.huntresslabs.log4shell.App - starting http server listening on 127.0.0.1:8000
+2024-08-07T12:15:19,311 [main] INFO  io.undertow - starting server: Undertow - 2.2.14.Final
+2024-08-07T12:15:19,317 [main] INFO  org.xnio - XNIO version 3.8.4.Final
+2024-08-07T12:15:19,324 [main] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.4.Final
+2024-08-07T12:15:19,517 [main] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-08-07T12:15:19,566 [main] INFO  com.huntresslabs.log4shell.App - starting ldap server listening on 0.0.0.0:1389
+^C
