@@ -9,4 +9,4 @@ java -jar target/log4shell-jar-with-dependencies.jar \
    --http-port 8000 \
    --ldap-host 0.0.0.0 \
    --ldap-port 1389 \
-   --redis-url "redis://my-redis-url.something.com:6379"
+   --redis-url "redis://127.0.0.1:6379"
